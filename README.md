@@ -53,9 +53,9 @@ I'm **Traplord**, a **Go Engineer** and **DevOps Enthusiast** who thrives at the
 ---
 
 ## 📈 Stats and Contributions:
+<!-- GitHub Streak Stats -->
+![TrapLord92's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=TrapLord92&theme=dark&hide_border=true)
 
-<!-- GitHub Stats Cards -->
-![Traplord's GitHub Stats](https://github-readme-stats.vercel.app/api?username=traplord&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
