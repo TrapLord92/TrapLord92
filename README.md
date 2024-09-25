@@ -1,11 +1,16 @@
+# 🧙‍♂️ **Traplord** 🧙‍♂️  
+### *"Mastering the realms of Golang and DevOps"*  
+<!-- Dark-themed banner -->
+![Traplord Banner](https://your-dark-canva-banner-link)
 
 ---
 
-# 🧙‍♂️ **Traplord** 🧙‍♂️  
-### *"Mastering the realms of Golang and DevOps"*  
-<!-- Use a dark-themed banner with abstract tech designs to create a visually stunning effect. You can create it using a design tool like Canva -->
-
-![Traplord Banner](https://your-dark-canva-banner-link)
+<div align="center">
+  <img src="https://img.shields.io/badge/-GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang Badge" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge" />
+</div>
 
 ---
 
@@ -25,6 +30,7 @@ I'm **Traplord**, a **Go Engineer** and **DevOps Enthusiast** who thrives at the
 ---
 
 ## 🛠️ My Tech Stack:
+
 ### 🚀 **Golang Engineer's Toolkit**:
 - **GoLang** — Clean, simple, and powerful programming language for backend services.
 - **Gorilla Mux** — Elegant and flexible HTTP router for building robust APIs.
@@ -63,14 +69,5 @@ _**Traplord** | Always in the pursuit of scalable systems and flawless automatio
 
 ---
 
-### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/traplord)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/traplord)  
-[![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=wordpress&logoColor=white)](https://traplord.dev)
 
----
-
-**✨ Make sure to fork and star my repos to stay updated! ✨**
-
----
