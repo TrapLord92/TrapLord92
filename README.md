@@ -1,4 +1,3 @@
-Here's a GitHub profile README for a Go engineer and DevOps enthusiast, with a bold and attention-grabbing theme using the name "Traplord" and highlighting key stacks for both roles.
 
 ---
 
