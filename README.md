@@ -1,7 +1,7 @@
 ---
 
-# Joaquim Domingos (aka Traplord)  
-### Golang Developer & DevOps Engineer
+#  Traplord  
+### QUANTOSCRIPT & RUST Developer & DevOps Engineer
 
 ---
 
